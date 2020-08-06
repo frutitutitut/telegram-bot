@@ -1,3 +1,3 @@
 # telegram-bot
 
-### Install Dependecies
+## Install Dependecies
